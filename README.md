@@ -1,8 +1,9 @@
 # Junior Business Analyst
 ## Professional Profile
-I have skills in requirements elicitation and documentation, as well as communication with teams and stakeholders.
+Skilled in requirements elicitation, analysis, and documentation, with the ability to communicate effectively with teams and clients. Able to translate business needs into clear, actionable technical specifications.
 ## Key Skills
-* **Working with requirements:** Requirements elicitation and analysis.
-* **Documentation:** User Story, Use Case, Acceptance Criteria.
-* **Methodologies:** Agile, Scrum, Kanban.
-* **Tools:** Jira.
+* **Requirements Analysis:** Requirements elicitation and analysis.
+* **Technical Skills:** SQL, APIs, and Git.
+* **Development Approaches:** SDLC, Agile, Scrum, Kanban, and Waterfall.
+* **Documentation:** Business Requirements Documents (BRD), Software Requirements Specifications (SRS), User Stories, Use Cases, Acceptance Criteria, and Business Rules.
+* **Tools:** Jira and Figma.
